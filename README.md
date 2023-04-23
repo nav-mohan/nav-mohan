@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @nav-mohan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Summary of skills
+* C++ GUI development with Qt5 and ImGUI.
+* C++ network/asynchronous programming with Boost.ASIO.
+* C++ web api development with Boost.BEAST.
+* C/C++ audio programming with FFmpeg, CoreAudio, LAME, FDK-AAC.
+* C/C++ graphics programming with FFmpeg, OpenGL, OpenCV.
+* Database design in MySQL, MongoDB
+* Real-time web API development using web-sockets, TCP sockets.
+* Backend web-development with Javascript, Python, PHP.
+* Frontend web-development with React, D3.JS
+* Automating tasks with shell scripts or Python scripts.
+* Configuring Linux Servers (systemd, crontab, iptables, rsync)
+* Load-Balancing with NGINX,Apache server. 
+* Soldering XLR, TRS, DB25 cables.
+
 
 <!---
 nav-mohan/nav-mohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
