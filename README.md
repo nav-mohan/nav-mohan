@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @nav-mohan
+- 👋 Hi
+I'm a generalist software developer who is, broadly speaking, interested in networks, async-paradigms, client-server models, multithreading.
+
 # Summary of skills
-* C++ GUI development with Qt5 and ImGUI.
 * C++ network/asynchronous programming with Boost.ASIO.
-* C++ web api development with Boost.BEAST.
+* C++ rest api development with Boost.BEAST.
 * C/C++ audio programming with FFmpeg, CoreAudio, LAME, FDK-AAC.
 * C/C++ graphics programming with FFmpeg, OpenGL, OpenCV.
+* C++ GUI development with Qt5 and ImGUI.
 * Database design in MySQL, MongoDB
 * Real-time web API development using web-sockets, TCP sockets.
 * Backend web-development with Javascript, Python, PHP.
