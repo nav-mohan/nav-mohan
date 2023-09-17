@@ -1,5 +1,5 @@
 - 👋 Hi
-I'm a generalist software developer who is, broadly speaking, interested in networks, async-paradigms, client-server models, multithreading.
+I'm a software developer who is interested in networks, async-paradigms, client-server models, multithreading.
 
 # Summary of skills
 * C++ network/asynchronous programming with Boost.ASIO.
